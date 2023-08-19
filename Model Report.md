@@ -7,11 +7,11 @@
 
 
 Compiling, Training, and Evaluating the Mode
-- In the first attempt, i used 8 hidden_nodes_layer1 and 5 hidden_nodes_layer2 -- these were just random guesses from which to iterate upon in the second try.
+- In the first attempt, i used 80 nodes in layer1 and 30 nodes layer 2
 
-- I was not able to achieve the 75% model accuracy target
+- The 3 models did not achieve the 75% accuracy target
 
-- I changed the layers and hidden nodes combination and switched up the activation functions associated with each layer in an attempt to achieve higher model accuracy. 
+- I changed the layers and hidden nodes combination in an attempt to achieve higher model accuracy. 
 
 Summary
 
